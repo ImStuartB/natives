@@ -11,7 +11,7 @@
         {
           "type": "float",
           "name": "radius"
-        }
+        },
       ],
       "return_type": "BOOL"
     },
